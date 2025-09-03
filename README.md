@@ -43,7 +43,7 @@ spring.data.mongodb.database=users-api
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/KnowledgeMoor/mongodb_tarefa.git
+   git clone https://github.com/KnowledgeMoor/Mongodb-API-de-Usuarios.git
    cd start-exemple
    ```
 
